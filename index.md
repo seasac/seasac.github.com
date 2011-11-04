@@ -1,5 +1,6 @@
 ---
 title: SEAS Academic Computing
+layout: default
 ---
 Academic Computing at Harvard SEAS
 ==================================
